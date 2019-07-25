@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d01f3a20e7e139d4ea34c90733f64f22
+timeCreated: 1524849490
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Royal2
+  fontNames:
+  - Royal2
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
